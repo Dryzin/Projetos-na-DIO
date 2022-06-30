@@ -24,7 +24,7 @@ div img{
     max-width: 992px;
     margin: auto;
     width: 100%;
-    min-width: 320px;
+    min-width: 220px;
 }
 
 header{
@@ -120,14 +120,15 @@ header .menu{
 
 #servicos{
     flex-direction: column;
-    padding-top: 50px;
+    padding-top: 80px;
     padding-bottom: 100px;
 }
 
 #servicos h2{
     color: #fff;
-    font-size: 32px;
-    margin-bottom: 20px;
+    font-size: 38px;
+    margin-bottom: 80px;
+    text-align: justify;
 }
 
 .list-servicos{
@@ -147,9 +148,9 @@ header .menu{
     text-align: center;
     margin-top: 20px;
     line-height: 50px;
-    padding: 5px 10px;
+    padding: 10px 20px;
     color: #122A57;
-    font-size: 12px;
+    font-size: 14px;
     text-decoration: none;
     font-weight: 700;
 }
@@ -168,8 +169,9 @@ header .menu{
 
 #planos{
     flex-direction: column;
-    min-height: 100vh;
-    padding-top: 50px;
+    min-height: 60vh;
+    padding-top: 100px;
+
 }
 
 #planos h2{
